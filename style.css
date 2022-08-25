@@ -1,0 +1,50 @@
+#header{
+    font-size: 25px;
+    margin-left: 40%;
+    margin-top: 4%;
+    width: 100vh;
+}
+
+.combined_div{
+    display: flex;
+    height:10px; 
+    margin-top:50px;
+    flex-direction: row;
+}
+
+.fields{
+    margin-left: 24%;
+    font-size: 23px;
+    color: whitesmoke;
+}
+
+#name_entry{
+    margin-left:300px;
+
+}
+
+#submit-btn{
+    margin-top: 100px;
+    margin-left: 40%;
+}
+
+#name_entry{
+    margin-left: 200px;
+
+}
+
+#contact_entry{
+    margin-left: 140px;
+}
+
+#email_entry{
+    margin-left: 195px;
+}
+
+#password_entry{
+    margin-left: 160px;
+}
+
+#confirm_password_entry{
+    margin-left: 80px;
+}
